@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+#What is this Project about?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a Google-keep clone 
 ## Available Scripts
 
 In the project directory, you can run:
