@@ -1,7 +1,8 @@
 #What is this Project about?
 
 This is a simple GoogleKeep Clone react project using Material-UI and CSS for styling.
-##How to run this project?
+
+#How to run this project?
 
 In the project directory, you can run:
 
